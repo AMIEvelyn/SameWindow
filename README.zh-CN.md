@@ -5,6 +5,10 @@
 ![部署](https://img.shields.io/badge/deployment-self--hosted-52796f)
 ![协议](https://img.shields.io/badge/protocol-MCP-7a6f9b)
 
+<a href="https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" height="24">
+</a>
+
 [English / Installation Guide](README.md)
 
 **2026-09-13 修复：**小红书读帖跳过隐藏重复链接，优先点可见封面，修复进入详情前的 5 秒滚动超时。

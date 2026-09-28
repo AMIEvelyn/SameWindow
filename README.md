@@ -7,6 +7,10 @@
 ![Deployment](https://img.shields.io/badge/deployment-self--hosted-52796f)
 ![Protocol](https://img.shields.io/badge/protocol-MCP-7a6f9b)
 
+<a href="https://github.com/DasterProkio/awesome-ai-companion">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion.png" alt="Featured in Awesome AI Companion" height="24">
+</a>
+
 [中文介绍：不是让 AI 替你上网，是把网页放到你们之间](README.zh-CN.md)
 
 SameWindow runs a persistent, dedicated Chrome and lets a person and an AI
